@@ -1,4 +1,4 @@
-# JGScan - Analizador de Cabeceras HTTP 🛡️
+# JGSAnalyzer - Analizador de Cabeceras HTTP 🛡️
 
 Herramienta de análisis de cabeceras de seguridad HTTP desarrollada en Python.
 Detecta cabeceras ausentes, clasifica el riesgo y genera reportes JSON.
